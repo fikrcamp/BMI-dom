@@ -22,7 +22,7 @@ input{
 }
 
 button{
-    background-color: darkgray;
+    background-color: rgb(90, 43, 43);
     color:white;
     border:none;
     padding:8px 10px
