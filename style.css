@@ -1,37 +1,41 @@
-*{
+* {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
 
-body{
+body {
     background: black;
-    color:white;
-    
+    color: white;
+
 }
 
-#container{
+#container {
     text-align: center;
-    margin:20px 0px
+    margin: 20px 0px
 }
 
-input{
-    padding:8px 10px;
-    width:200px;
-    border:none
+input {
+    padding: 8px 10px;
+    width: 200px;
+    border: none
 }
 
-button{
+button {
     background-color: darkgray;
-    color:white;
-    border:none;
-    padding:8px 10px
+    color: white;
+    border: none;
+    padding: 8px 10px
 }
 
-#form{
+#form {
     margin: 18px 0px;
 }
 
-#note{
-    margin:14px 0px
+#note {
+    margin: 14px 0px
+}
+
+#form button:hover {
+    cursor: pointer;
 }
