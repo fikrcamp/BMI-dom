@@ -25,7 +25,8 @@ button{
     background-color: darkgray;
     color:white;
     border:none;
-    padding:8px 10px
+    padding:8px 10px;
+    cursor: pointer;
 }
 
 #form{
