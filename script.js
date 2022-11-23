@@ -1,5 +1,5 @@
 // console.log("hello");
-document.querySelector("#calculare").addEventListener("click", function(){
+document.querySelector("#calculate").addEventListener("click", function(){
     let bill=document.querySelector("#input").value
     let tip1=bill*0.15
     let tip2=bill*0.20
