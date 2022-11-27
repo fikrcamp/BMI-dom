@@ -22,11 +22,14 @@ input{
 }
 
 button{
-    background-color: darkgray;
+    background-color: rgb(194, 9, 138);
     color:white;
     border:none;
     padding:8px 10px
+   
 }
+
+
 
 #form{
     margin: 18px 0px;
